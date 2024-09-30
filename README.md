@@ -1,6 +1,7 @@
 1.Tampilan Awal
 
 ![image](https://github.com/user-attachments/assets/699ef759-40d1-4066-8e87-faca8e97e964)
+
 Di tampilan awal ada 6 fitur
 
   1.Tambah siswa
